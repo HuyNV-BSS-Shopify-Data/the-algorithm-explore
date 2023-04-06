@@ -1,0 +1,62 @@
+,path,size,first_title
+0,/the-algorithm/README.md,4895,# Twitter's Recommendation Algorithm
+1,/the-algorithm/visibilitylib/README.md,2356,
+2,/the-algorithm/timelineranker/README.md,1403,# TimelineRanker
+3,/the-algorithm/timelineranker/client/builder/README.md,156,# TimelineRanker client
+4,/the-algorithm/src/java/com/twitter/search/README.md,3406,# Tweet Search System (Earlybird)
+5,/the-algorithm/src/java/com/twitter/search/earlybird/README.md,7481,# Search Index (Earlybird) main classes
+6,/the-algorithm/src/java/com/twitter/search/core/earlybird/README.md,2715,# Search Index (Earlybird) core classes 
+7,/the-algorithm/src/java/com/twitter/search/common/README.md,93,
+8,/the-algorithm/src/java/com/twitter/search/earlybird_root/README.md,592,# Search Index (Earlybird) Root
+9,/the-algorithm/src/java/com/twitter/search/feature_update_service/README.md,247,## Feature Update Service
+10,/the-algorithm/src/java/com/twitter/search/ingester/README.md,828,## Ingesters
+11,/the-algorithm/src/scala/com/twitter/interaction_graph/README.md,2483,## Real Graph (bqe)
+12,/the-algorithm/src/scala/com/twitter/interaction_graph/bqe/scoring/README.md,5682,# Scoring
+13,/the-algorithm/src/scala/com/twitter/interaction_graph/bqe/training/README.md,5844,# Training
+14,/the-algorithm/src/scala/com/twitter/interaction_graph/scio/README.md,333,# Interaction Graph
+15,/the-algorithm/src/scala/com/twitter/interaction_graph/scio/agg_address_book/README.md,1044,## InteractionGraphAddressBook Dataflow Job
+16,/the-algorithm/src/scala/com/twitter/interaction_graph/scio/ml/labels/README.md,955,## InteractionGraphLabels Dataflow Job
+17,/the-algorithm/src/scala/com/twitter/interaction_graph/scio/ml/scores/README.md,916,## InteractionGraphLabels Dataflow Job
+18,/the-algorithm/src/scala/com/twitter/interaction_graph/scio/agg_client_event_logs/README.md,1093,## InteractionGraphClientEventLogs Dataflow Job
+19,/the-algorithm/src/scala/com/twitter/interaction_graph/scio/agg_notifications/README.md,1048,## InteractionGraphClientEventLogs Dataflow Job
+20,/the-algorithm/src/scala/com/twitter/interaction_graph/scio/agg_flock/README.md,1001,## InteractionGraphClientEventLogs Dataflow Job
+21,/the-algorithm/src/scala/com/twitter/interaction_graph/scio/agg_negative/README.md,1058,## InteractionGraphNegative Dataflow Job
+22,/the-algorithm/src/scala/com/twitter/interaction_graph/scio/agg_direct_interactions/README.md,1134,## InteractionGraphAggDirectInteractions Dataflow Job
+23,/the-algorithm/src/scala/com/twitter/interaction_graph/scio/agg_all/README.md,1308,## InteractionGraphAggregationJob Dataflow Job
+24,/the-algorithm/src/scala/com/twitter/simclusters_v2/README.md,9979,# SimClusters: Community-based Representations for Heterogeneous Recommendations at Twitter
+25,/the-algorithm/src/scala/com/twitter/simclusters_v2/scio/bq_generation/ftr_tweet/README.md,9807,# FTR Tweet embeddings 
+26,/the-algorithm/src/scala/com/twitter/simclusters_v2/scio/multi_type_graph/assemble_multi_type_graph/README.md,1747,# Pre-requisites
+27,/the-algorithm/src/scala/com/twitter/simclusters_v2/summingbird/README.md,251,
+28,/the-algorithm/src/scala/com/twitter/recos/user_tweet_graph/README.md,1233,# UserTweetGraph (UTG)
+29,/the-algorithm/src/scala/com/twitter/recos/user_tweet_entity_graph/README.md,1111,# UserTweetEntityGraph (UTEG)
+30,/the-algorithm/src/scala/com/twitter/recos/user_video_graph/README.md,900,# UserVideoGraph (UVG)
+31,/the-algorithm/src/scala/com/twitter/recos/user_user_graph/README.md,1081,# UserUserGraph (UUG)
+32,/the-algorithm/src/python/twitter/deepbird/projects/timelines/scripts/models/earlybird/README.md,3884,# Earlybird Light Ranker
+33,/the-algorithm/recos-injector/README.md,1775,# Recos-Injector
+34,/the-algorithm/graph-feature-service/README.md,400,# Graph Feature Service
+35,/the-algorithm/follow-recommendations-service/README.md,4354,# Follow Recommendations Service
+36,/the-algorithm/follow-recommendations-service/common/src/main/scala/com/twitter/follow_recommendations/common/candidate_sources/real_graph/README.md,860,# RealGraph Candidate Source
+37,/the-algorithm/follow-recommendations-service/common/src/main/scala/com/twitter/follow_recommendations/common/candidate_sources/geo/README.md,646,# Pop Geo Candidate Source
+38,/the-algorithm/follow-recommendations-service/common/src/main/scala/com/twitter/follow_recommendations/common/candidate_sources/two_hop_random_walk/README.md,784,# Two-hop Random Walk
+39,/the-algorithm/follow-recommendations-service/common/src/main/scala/com/twitter/follow_recommendations/common/candidate_sources/salsa/README.md,1627,# SALSA Candidate Source
+40,/the-algorithm/follow-recommendations-service/common/src/main/scala/com/twitter/follow_recommendations/common/candidate_sources/promoted_accounts/README.md,81,# Promoted Accounts Candidate Source
+41,/the-algorithm/follow-recommendations-service/common/src/main/scala/com/twitter/follow_recommendations/common/candidate_sources/user_user_graph/README.md,407,# User-User Graph Candidate Source
+42,/the-algorithm/follow-recommendations-service/common/src/main/scala/com/twitter/follow_recommendations/common/candidate_sources/stp/README.md,3503,# Strong Tie Prediction (STP) Candidate Source
+43,/the-algorithm/follow-recommendations-service/common/src/main/scala/com/twitter/follow_recommendations/common/candidate_sources/sims_expansion/README.md,526,# Sims Expansion Candidate Source
+44,/the-algorithm/follow-recommendations-service/common/src/main/scala/com/twitter/follow_recommendations/common/candidate_sources/crowd_search_accounts/README.md,397,# Crowd Search Candidate Source
+45,/the-algorithm/follow-recommendations-service/common/src/main/scala/com/twitter/follow_recommendations/common/candidate_sources/sims/README.md,3805,# Sims Candidate Source
+46,/the-algorithm/follow-recommendations-service/common/src/main/scala/com/twitter/follow_recommendations/common/candidate_sources/socialgraph/README.md,518,# Social Graph Candidate Source
+47,/the-algorithm/follow-recommendations-service/common/src/main/scala/com/twitter/follow_recommendations/common/candidate_sources/ppmi_locale_follow/README.md,733,# PPMI Locale Follow Candidate Source
+48,/the-algorithm/follow-recommendations-service/common/src/main/scala/com/twitter/follow_recommendations/common/candidate_sources/triangular_loops/README.md,400,# Triangular Loops Candidate Source
+49,/the-algorithm/follow-recommendations-service/common/src/main/scala/com/twitter/follow_recommendations/common/candidate_sources/recent_engagement/README.md,173,# Recent Engagement Candidate Source
+50,/the-algorithm/follow-recommendations-service/common/src/main/scala/com/twitter/follow_recommendations/common/candidate_sources/addressbook/README.md,207,# Address Book Candidate Source
+51,/the-algorithm/follow-recommendations-service/common/src/main/scala/com/twitter/follow_recommendations/common/candidate_sources/top_organic_follows_accounts/README.md,153,# Top Organic Follows Accounts
+52,/the-algorithm/twml/README.md,701,# TWML
+53,/the-algorithm/simclusters-ann/README.md,6237,# SimClusters ANN
+54,/the-algorithm/navi/README.md,2591,# Navi: High-Performance Machine Learning Serving Server in Rust
+55,/the-algorithm/product-mixer/README.md,2443,## Overview
+56,/the-algorithm/ann/src/main/scala/com/twitter/ann/service/loadtest/README.md,10060,# Loadtest ANN query service with random embeddings
+57,/the-algorithm/science/search/ingester/config/README.md,427,## Ingester Configs
+58,/the-algorithm/trust_and_safety_models/README.md,881,
+59,/the-algorithm/cr-mixer/README.md,1508,# CR-Mixer
+60,/the-algorithm/home-mixer/README.md,4377,## Overview
